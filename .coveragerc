@@ -1,0 +1,5 @@
+[run]
+include = ub_photo/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
